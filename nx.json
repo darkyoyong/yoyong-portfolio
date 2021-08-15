@@ -27,6 +27,13 @@
     ]
   },
   "projects": {
+    "yp-main": {
+      "tags": []
+    },
+    "yp-main-e2e": {
+      "tags": [],
+      "implicitDependencies": ["yp-main"]
+    },
     "yp-spotify": {
       "tags": []
     },
